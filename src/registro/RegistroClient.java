@@ -86,7 +86,7 @@ public class RegistroClient {
 
     }
 
-    private static final String IP_ADDRESS = "192.168.1.3";
+    private static final String IP_ADDRESS = "localhost";
     private static final int CONNECTION_PORT = 9000;
 
 }
